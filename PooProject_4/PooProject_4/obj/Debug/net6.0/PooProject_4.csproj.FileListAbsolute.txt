@@ -1,0 +1,15 @@
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\obj\Debug\net6.0\PooProject_4.csproj.AssemblyReference.cache
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\obj\Debug\net6.0\PooProject_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\obj\Debug\net6.0\PooProject_4.AssemblyInfoInputs.cache
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\obj\Debug\net6.0\PooProject_4.AssemblyInfo.cs
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\obj\Debug\net6.0\PooProject_4.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\bin\Debug\net6.0\PooProject_4.exe
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\bin\Debug\net6.0\PooProject_4.deps.json
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\bin\Debug\net6.0\PooProject_4.runtimeconfig.json
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\bin\Debug\net6.0\PooProject_4.dll
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\bin\Debug\net6.0\PooProject_4.pdb
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\obj\Debug\net6.0\PooProject_4.dll
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\obj\Debug\net6.0\refint\PooProject_4.dll
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\obj\Debug\net6.0\PooProject_4.pdb
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\obj\Debug\net6.0\PooProject_4.genruntimeconfig.cache
+C:\Users\Natalia Garcia\source\repos\PooProject_4\PooProject_4\obj\Debug\net6.0\ref\PooProject_4.dll
